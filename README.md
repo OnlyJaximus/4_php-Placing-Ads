@@ -1,2 +1,3 @@
-# 4_php_ads_buying_selling
-In this task I used bootstrap and database. The focus was on logic. This task enables the sale and placement of ads with different functionalities and filters.
+# 4_php-ads-buying-selling
+
+This application is made in PHP language. MySQL is used as a database. Bootstrap is used for the layout of the pages. This application has the possibility of user registration, user login. The application serves to place ads. By clicking on an ad, depending on where it is clicked, there is a search for ads by category, by owner of the ad. The ad can be viewed. Certain validation is done after the user is logged in.
