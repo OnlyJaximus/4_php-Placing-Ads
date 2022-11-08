@@ -1,6 +1,10 @@
 <?php require_once 'partials/head.php' ?>
-
 <?php require_once 'partials/navbar.php' ?>
+<?php
+if (isset($_SESSION['id'])) {
+    header('Location: oglasi.php');
+}
+?>
 
 <div class="container">
     <div class="col-6 offset-4">
