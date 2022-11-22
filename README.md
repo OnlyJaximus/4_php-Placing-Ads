@@ -12,4 +12,4 @@ This application is made in PHP language. MySQL is used as a database. Bootstrap
 ![6](https://user-images.githubusercontent.com/56784702/201076950-d3b5f82e-b3f6-4491-893d-2b87613defe3.png)
 ![7](https://user-images.githubusercontent.com/56784702/201076953-a0597d2f-4609-425a-b4db-c5186f07d0bf.png)
 ![8](https://user-images.githubusercontent.com/56784702/201076957-4fa2472f-c544-4f4f-9dbb-998a6ab90039.png)
-
+![8](https://user-images.githubusercontent.com/56784702/203372823-362acf98-f201-42b4-a9b9-0565ce48cf33.png)
